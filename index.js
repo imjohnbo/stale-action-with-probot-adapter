@@ -1,5 +1,3 @@
-require('newrelic')
-
 const getConfig = require('probot-config')
 const createScheduler = require('probot-scheduler')
 const Stale = require('./lib/stale')
