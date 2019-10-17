@@ -1,0 +1,5 @@
+name: 'Stale'
+description: 'Stale app as a GitHub Action'
+runs:
+  using: 'node12'
+  main: 'action.js'
